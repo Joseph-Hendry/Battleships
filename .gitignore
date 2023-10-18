@@ -1,0 +1,11 @@
+drivers/
+extra/
+fonts/
+utils/
+.vscode/
+*.exe
+*.out
+*.hex
+*.o
+*.tmp
+test.c
