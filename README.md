@@ -34,6 +34,8 @@ Battle Phase:
     After each shot, the attacking and defending roles switch between players.
     The game continues until one player destroys all of the enemy ships by hitting each individual part (pixel) of all the ships, a message will then be displayed to the user telling them if they have won or lost.
 
+![image](https://github.com/Joseph-Hendry/BattleShips/assets/107831702/6d0dbbb7-9749-4a5e-89b1-d55a0d92dae1)
+
 Contributors:
 Joseph Hendry (jhe135)
 Jack Malcolm (jma476).
